@@ -1,1 +1,1 @@
-# funquiz.github.io
+# funquiz
